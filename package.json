@@ -2,9 +2,9 @@
     "name": "mongo-demo",
     "version": "1.0.0",
     "description": "",
-    "main": "server.js",
+    "main": "server1.js",
     "scripts": {
-        "start": "server.js"
+        "start": "server1.js"
     },
     "dependencies": {
         "express": "^4.17.2",
